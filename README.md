@@ -22,7 +22,7 @@ This program serves to provide a quick visualization of COVID-19 data [1] (cases
 ![alt text](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-motusaru/blob/main/Screenshot%202024-04-02%20224141.png)
 
 ### Output
-![alt text](C:\Users\Sarah\Desktop\CS2613\js\China_chart.png)
+![alt text](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-motusaru/blob/main/China_chart.png)
 
 
 ## References 
